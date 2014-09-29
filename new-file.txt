@@ -1,1 +1,1 @@
-editing new-file.txt via online GUI editor
+NOW NEW-FILE.TXT WAS EDITED VIA LOCAL MACHINE
